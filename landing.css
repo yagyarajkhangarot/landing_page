@@ -1,0 +1,183 @@
+.main{
+    background-color: #1F2937;
+    height: 550px;
+}
+.main2{
+    display: flex;
+    color: #E5E7EB;
+    
+}
+.one{
+    margin-left: 500px;
+    margin-right: 35px;
+    font-size: 18px;
+    margin-top: 35px;
+    
+}
+.two{
+    margin-right: 35px;
+    font-size: 18px;
+    margin-top: 35px;
+}
+.three{
+    margin-right: 35px;
+    font-size: 18px;
+    margin-top: 35px;
+}
+.logo{
+    margin-left: 135px;
+    margin-top: 12px;
+    font-size: 24px;
+    margin-top: 30px;
+    
+}
+.main3{
+    display: flex;
+}
+.four{
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.pre1{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-top: -50px;
+    margin-left: -60px ;
+
+}
+.button{
+    height: 30px;
+    width: 100px;
+    margin-left: 129px;
+    margin-top: -70px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: white;
+}
+.main5{
+    
+    margin-top: 90px ;
+    margin-left: 40px;
+}
+.img{
+    max-width: 500px;
+    max-height: 600px;
+}
+.gain{
+    height: 450px;
+    
+}
+.gain p{
+       text-align: center;
+       font-size: 36px;
+       font-weight: bold;
+       color: #1F2937;
+}
+.gain1 {
+    display: flex;
+   
+    
+
+}
+.gain1 div{
+    border: 5px solid lightseagreen;
+    height: 140px;
+    width: 140px;
+    
+    margin-left: 210px;
+    margin-top: 30px;
+    border-radius: 15px ;
+    margin-right: -120px;
+    
+   
+}
+
+
+.gain3{
+    display: flex;
+    
+}
+.gain3 .pre2{
+    margin-left: 95px;
+}  
+.gain3 .pre3{
+    margin-left: -20px;
+}  
+.gain3 .pre4{
+    margin-left: -20px;
+}
+.gain3 .pre5{
+    margin-left: -30px;
+}
+.pain{
+    background-color: #E5E7EB;
+    height: 450px ;
+    text-align: center;
+
+}
+.pain .pain3{
+    
+    font-size: 36px;
+    font-family: italic;
+    color: #1F2937;
+    padding: 150px;
+    margin-left: -80px;
+    
+}
+.pain .pain4{
+    margin-top: -200px;
+    margin-left: 600px;
+    font-weight: bold;
+    font-size: 22px ;
+}
+.tane{
+    height: 250px;
+    background-color:white;
+}
+.tane3{
+    height:100px ;
+    width: 900px;
+   
+    margin: auto;
+    margin-top: 130px;
+    border-radius: 15px;
+    background-color:rgb(51, 153, 255);
+    padding: 30px;
+}
+ .tane3 .p10{
+    margin-top: 20px;
+    margin-left: 50px;
+    color: white;
+    font-size: 25px;
+
+}
+.tane3 .p11{
+     margin-top: -30px;
+     margin-left: 50px;
+     color: white;
+     font-size: 20px;
+}
+.tane3 .button1{
+    height: 35px;
+    width: 130px;
+    margin-left: 650px;
+    margin-top: -500px;
+    background-color: rgb(51, 153, 255);
+    border-radius: 10px;
+    color: white;
+    border: solid white 3px;
+    
+}
+.dane{
+    height: 100px;
+    background-color:#1F2937 ;
+}
+.dane p{
+    color: white;
+    padding: 45px;
+    margin-left: 530px;
+    font-size: 18px;
+}
